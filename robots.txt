@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eminozbaki.github.io/eminozbaki/sitemap.xml
